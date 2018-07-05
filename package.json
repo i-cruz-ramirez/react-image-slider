@@ -1,7 +1,8 @@
 {
   "name": "new",
   "version": "1.0.0",
-  "description": "",
+  "description":
+    "https://medium.com/@ItsMeDannyZ/build-an-image-slider-with-react-es6-264368de68e4",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
